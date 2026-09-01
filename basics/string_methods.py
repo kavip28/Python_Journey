@@ -42,3 +42,19 @@ print ("Is 'D' in the team name?", "D" in team)
 
 #9 - not operator
 print ("Is 'D' not in the team name?", "D" not in team)
+
+#10 Formatted Strings
+first_name = "Jake"
+last_name = "Smith"
+print(f"Hello, {first_name} {last_name}!")
+#or you can do this way
+full_name = f"{first_name} {last_name}"
+print(full_name)
+
+#11 None
+#the absence of a value or a null value
+print(None)
+print(type(None))
+
+user_password = None
+print(user_password)
