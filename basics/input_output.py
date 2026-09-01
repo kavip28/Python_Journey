@@ -10,4 +10,4 @@ print("My first name is {} and my last name is {} so my full name is {} {}".form
 print(f"My first name is {first_name} and my last name is {last_name} so my full name is {first_name} {last_name}")
 
 #input
-
+print("nothing")
